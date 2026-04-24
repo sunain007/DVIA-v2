@@ -1,13 +1,5 @@
-//
-//  JailbreakDetection.m
-//  DVIA - Damn Vulnerable iOS App
-//
 //  Updated in 2026 to support both Rootful and Rootless jailbreaks
 //  (Dopamine, Palera1n rootless, RootHide Bootstrap, etc.)
-//
-//  Original Author: Prateek Gianchandani
-//  Contribution: Improved modern jailbreak detection
-//
 
 #import <Foundation/Foundation.h>
 #import "JailbreakDetection.h"
